@@ -294,5 +294,9 @@
   {
     "url": "https://random-rants-chat.github.io/randomrants-soundboard/Sticky_keys.wav",
     "name": "Windows Sticky Keys"
+  },
+  {
+    "url": "https://random-rants-chat.github.io/randomrants-soundboard/WindowsSound.wav",
+    "name": "Windows Sound"
   }
 ]
