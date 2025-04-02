@@ -298,5 +298,9 @@
   {
     "url": "https://random-rants-chat.github.io/randomrants-soundboard/WindowsSound.wav",
     "name": "Windows Sound"
+  },
+  {
+    "url": "https://random-rants-chat.github.io/randomrants-soundboard/suffering.wav",
+    "name": "The sound of suffering"
   }
 ]
