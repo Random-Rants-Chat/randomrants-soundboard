@@ -318,5 +318,9 @@
   {
     "url": "https://random-rants-chat.github.io/randomrants-soundboard/hungry.wav",
     "name": "I'm very hungry"
+  },
+  {
+    "url": "https://random-rants-chat.github.io/randomrants-soundboard/LoudEagleSound.mp3",
+    "name": "Loud eagle sound"
   }
 ]
